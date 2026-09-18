@@ -77,9 +77,9 @@ function Hero() {
             </a>
 
             <a
-              href="/Haris-Imran-CV.pdf"
+             href="/Haris Imran (Resume).pdf"
               className="secondary-btn"
-              download
+             download="Haris Imran (Resume).pdf"
             >
               Download CV ↓
             </a>
