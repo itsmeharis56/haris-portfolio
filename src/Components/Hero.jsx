@@ -76,13 +76,13 @@ function Hero() {
               <span>↗</span>
             </a>
 
-            <a
-             href="/Haris Imran (Resume).pdf"
-              className="secondary-btn"
-             download="Haris Imran (Resume).pdf"
-            >
-              Download CV ↓
-            </a>
+           <a
+  href="/Haris_Imran_CV.pdf"
+  className="secondary-btn"
+  download="Haris_Imran_CV.pdf"
+>
+  Download CV ↓
+</a>
 
           </div>
 
